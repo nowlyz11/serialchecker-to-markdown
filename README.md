@@ -37,7 +37,7 @@ O script coleta as seguintes categorias de informações:
 ## Como Usar
 
 1.  **Download/Cópia:**
-    * Baixe o arquivo `.bat` (por exemplo, `coletor_hardware.bat` ou o nome que você deu ao script que gera o Markdown, como `coletor_hardware_md.bat`) ou copie o código para um novo arquivo de texto.
+    * Baixe o arquivo `.bat` ou copie o código para um novo arquivo de texto.
     * Se estiver copiando, salve o arquivo com a extensão `.bat`.
 
 2.  **Execução:**

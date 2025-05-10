@@ -51,6 +51,10 @@ O script coleta as seguintes categorias de informações:
     * Um arquivo chamado `hardware_info.md` será criado no mesmo diretório do script.
     * Abra este arquivo com qualquer editor de texto ou visualizador de Markdown (por exemplo, VS Code, Typora, ou diretamente no GitHub).
 
+4. **Como ver o markdown ja formatado?**
+    * Acesse o site https://markdownlivepreview.com/
+    * Cole o que esta dentro do arquivo .md, para o site.
+
 ## Requisitos
 
 * **Sistema Operacional:** Windows (testado em versões mais recentes, mas deve funcionar em muitas versões que suportam `wmic`).
